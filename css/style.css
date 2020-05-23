@@ -1,0 +1,48 @@
+html {height: auto;
+width: auto;
+}
+img {margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+/*#pos {  position: relative;
+top: 100px;
+} */
+.blak { font-weight: bold;
+
+}
+.shrift {font-family: 'Dancing Script', cursive;}
+ div,span,blockquote,dt,h3,h1,td{ text-align: center; }
+
+.leftimg {margin-left: 10px;
+ }
+
+table {
+    width: auto; /* Ширина таблицы */
+    border: 2px solid ; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
+td,th {border: 2px solid ;}
+.index h1 {
+   color:white;
+}
+.index h5 {
+   color:white;
+}
+.index p{
+   color:white;
+}
+.index div{
+   color:white;
+}
+.index li{
+   color:white;
+}
+.index pre{
+   color:white;
+}
+
+body { background-image: url("https://w-dog.ru/wallpapers/3/10/329077288849295/liga-chempionov-lch-stadion-futbol-sport-pole.jpg")}
+.col-1-3 {margin-left:10%;}
+.b {color: black}
